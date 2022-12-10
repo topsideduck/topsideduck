@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hello, I'm Harikeshav R](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I'm+Harikeshav+R)
+![Hello, I'm Harikeshav R.](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I'm+Harikeshav+R.)
 
 <p align="center">
     <img src="https://profile-counter.glitch.me/topsideduck/count.svg"/>
@@ -26,17 +26,17 @@ HarikeshavR = Developer(
     work_experience = None,
     interests = [
         'Machine Learning and Artificial Intelligence',
-        'Web Development'
         'App Development',
+        'Embedded Systems and IOT',
     ],
     languages = [
         'Python',
-        'C',
-        'C++',
         'C#',
+        'Rust',
     ],
     projects = [
-        'Velt: Backdoor Framework',
+        'Mazdoor Sahay',
+        'Covid Essentials',
     ],
 )
 ```
